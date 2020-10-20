@@ -5,7 +5,7 @@
     </p>
 </a>
 
-
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/juvsnicacio?color=red&logoColor=blue&style=plastic">
 
 <!--
 **juvsnicacio/juvsnicacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
