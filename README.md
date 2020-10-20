@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-
 <!-- status codes -->
 <a align="center">
     <p align="center">
