@@ -15,7 +15,6 @@
 <img src="https://devicon.dev/devicon.git/icons/travis/travis-plain.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" width="25px" height="25px"/>
