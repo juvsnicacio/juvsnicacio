@@ -11,9 +11,9 @@
 
 <p align="left">
 <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/travis/travis-plain.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-plain.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" width="25px" height="25px"/>
@@ -22,7 +22,7 @@
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
