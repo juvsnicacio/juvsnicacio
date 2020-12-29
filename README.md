@@ -9,18 +9,17 @@
 
 ### Technology Stack:
 
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+<p align="left">
+<img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/travis/travis-plain.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
+</p>
