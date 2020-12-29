@@ -9,7 +9,7 @@
 
 ### Technology Stack:
 
-<p align="left">
+<p align="center">
 <img src="https://devicon.dev/devicon.git/icons/java/java-original.svg" width="35px" height="35px"/>
 <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="35px" height="35px"/>
 <img src="https://devicon.dev/devicon.git/icons/php/php-plain.svg" width="35px" height="35px"/>
