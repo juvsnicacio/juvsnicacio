@@ -24,7 +24,6 @@
 <img src="https://devicon.dev/devicon.git/icons/jquery/jquery-plain.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
-<img src="https://devicon.dev/devicon.git/icons/android/android-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/html5/html5-plain.svg" width="25px" height="25px"/>
