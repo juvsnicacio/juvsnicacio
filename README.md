@@ -18,8 +18,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35px" height="35px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35px" height="35px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35px" height="35px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35px" height="35px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="35px" height="35px"/>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="35px" height="35px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="35px" height="35px"/> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35px" height="35px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" width="35px" height="35px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35px" height="35px"/>
