@@ -7,9 +7,9 @@
 
 
 
-### Technology Stack:
+##
 
-<p align="center">
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35px" height="35px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/travis/travis-plain.svg" width="35px" height="35px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35px" height="35px"/>
