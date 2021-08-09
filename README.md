@@ -5,13 +5,13 @@
     </p>
 </a>
 
-
+<!--
 <p align="center">
 <a href="">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=juvsnicacio&theme=react&hide_border=true"/>
 </a>
 </p>
-
+-->
 
 ##
 
