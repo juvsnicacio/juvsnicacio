@@ -2,7 +2,8 @@
 <a align="center">
     <p align="left">
     <!--<img src="https://github-readme-stats.vercel.app/api?username=juvsnicacio&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juvsnicacio&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juvsnicacio&layout=compact&theme=tokyonight" alt="languages" height="195">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juvsnicacio&theme=react&hide_border=true"/>
     </p>
 </a>
 
