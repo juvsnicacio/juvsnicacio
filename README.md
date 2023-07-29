@@ -1,3 +1,4 @@
+
 <!-- status codes -->
 <a align="center">
     <p align="left">
@@ -8,7 +9,7 @@
 </a>
 
 ##
-
+### Languages and Tools:
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" height="40px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50px" height="40px"/>    
@@ -27,6 +28,7 @@
 </p>
 
 ## 
+### Connect with me:
 <div align="left"> 
     <a href="https://www.linkedin.com/in/juvanderson-nicacio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <a href = "mailto:juvandersonns@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
