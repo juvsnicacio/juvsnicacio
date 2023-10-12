@@ -27,6 +27,8 @@
 
 </p>
 
+ 🌱 I’m currently learning <a href="https://www.apple.com/br/swift/" target="_blank">**Swift**</a>
+
 ## 
 ### Connect with me:
 <div align="left"> 
