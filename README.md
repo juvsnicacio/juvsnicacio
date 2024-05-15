@@ -27,6 +27,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="50px" height="40px"/>
  🌱 I’m currently learning <a href="https://www.apple.com/br/swift/" target="_blank">**Swift**</a>
 -->
+    
 ## 
 ### Connect with me:
 <div align="left"> 
